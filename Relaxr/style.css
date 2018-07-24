@@ -1,0 +1,54 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+.clearfix::after {
+  content: "";
+  height: 0;
+  visibility: hidden;
+  clear: both;
+  display: block;
+}
+
+.bt {
+  width: 1263.5px;
+  height: 200px;
+  border: solid 1px #999;
+  background-color: #033048;
+
+
+}
+
+h1 {
+  color:white;
+  font-weight:800; 
+  
+}
+
+nav {
+  color: yellow;
+  float: left;
+}
+
+a:link {
+  color: yellow;
+  font-weight: 600;
+}
+
+/*.link{
+  color:#f9e42e;
+  font-weight: 600;
+}*/
+
+.br{
+  float:left;
+  width:700px;
+  height: 
+}
+
+.bl{
+
+}
